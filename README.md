@@ -51,3 +51,10 @@ The robot is controlled through hand gestures captured by a webcam, and commands
 ---
 
 ## 📂 Project Structure
+Robotic_Pro/
+│-- mediapipe_env/ # Virtual environment (not pushed to GitHub)
+│-- mediapipe_pro.py # Main gesture detection and control script
+│-- test.py # Testing script
+│-- final_project/ # Additional project files
+│-- requirement.txt # Required Python packages
+│-- README.md # Project documentation
